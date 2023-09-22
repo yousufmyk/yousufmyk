@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yousufmyk" alt="yousufmyk" /></a> </p>
 
-- 🔭 I’m currently working on **Pakistani Masaly**
+- 🔭 I’m currently working on **Some Cool Apps in Flutter**
 
 - 🌱 I’m currently learning **Advance Flutter,Riverpod & Rx Dart.**
 
