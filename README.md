@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mohamedyousufdev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XYfuCpdU3O1kgVtt_CYPFaL3KcBJy6tj/view?usp=sharing](https://drive.google.com/file/d/1XYfuCpdU3O1kgVtt_CYPFaL3KcBJy6tj/view?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1VNsjspa9ofVWylNLyVqA67XARxMYNIWp/edit?usp=sharing&ouid=100682135900635142274&rtpof=true&sd=true](https://docs.google.com/document/d/1VNsjspa9ofVWylNLyVqA67XARxMYNIWp/edit?usp=sharing&ouid=100682135900635142274&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I do freelance Projects as well so do let me know if you've any projects in mind.**
 
